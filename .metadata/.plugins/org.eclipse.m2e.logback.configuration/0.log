@@ -300,3 +300,18 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.beanshell
 2018-12-29 18:11:34,829 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Projects\Selenuim with Maven-Git\com.org.myMavenProject\src\main\resources
 2018-12-29 18:11:34,830 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-12-29 18:11:34,830 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Projects\Selenuim with Maven-Git\com.org.myMavenProject\src\test\resources
+2018-12-29 18:17:30,510 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-29 18:17:31,950 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-29 18:17:31,950 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Projects\Selenuim with Maven-Git\com.org.myMavenProject\src\main\resources
+2018-12-29 18:17:31,952 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-29 18:17:31,952 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Projects\Selenuim with Maven-Git\com.org.myMavenProject\src\test\resources
+2018-12-29 18:18:57,375 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-29 18:18:57,375 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Projects\Selenuim with Maven-Git\com.org.myMavenProject\src\main\resources
+2018-12-29 18:18:57,376 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-29 18:18:57,376 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Projects\Selenuim with Maven-Git\com.org.myMavenProject\src\test\resources
+2018-12-29 18:19:16,718 [Worker-14: Launching Executing test in G__Projects_Selenuim with Maven-Git_com.org.myMavenProject] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\Projects\Selenuim with Maven-Git\com.org.myMavenProject
+2018-12-29 18:19:16,718 [Worker-14: Launching Executing test in G__Projects_Selenuim with Maven-Git_com.org.myMavenProject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2018-12-29 18:19:38,403 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-29 18:19:38,404 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Projects\Selenuim with Maven-Git\com.org.myMavenProject\src\main\resources
+2018-12-29 18:19:38,405 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-29 18:19:38,405 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Projects\Selenuim with Maven-Git\com.org.myMavenProject\src\test\resources
